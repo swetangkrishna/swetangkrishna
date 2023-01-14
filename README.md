@@ -1,3 +1,4 @@
+![logo](https://github.com/swetangkrishna/swetangkrishna/blob/main/git-banner.png)
 <h1 align="center">Hi 👋, I'm Swetang Krishna</h1>
 <h3 align="center">A Cyber security enthusiast and a part time Web-developer.</h3>
 
