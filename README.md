@@ -1,4 +1,4 @@
-![logo](https://github.com/swetangkrishna/swetangkrishna/blob/main/git-banner.png)
+
 <h1 align="center">Hi 👋, I'm Swetang Krishna</h1>
 <h3 align="center"></h3>
 
