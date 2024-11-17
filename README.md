@@ -6,17 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetangkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="swetangkrishna" /> </p>
 
-Hello! 👋 I'm Swetang Krishna, a final-year student at Trinity College Dublin, where I am honing my skills in data science and analytics. Currently, I'm embracing the role of Junior Analyst at Trinity Student Managed Fund (SMF), where I apply my analytical skills to real-world financial data.
-
-📊 Data Science Enthusiast: Passionate about uncovering insights from data, I am always eager to dive into datasets and extract meaningful information. My journey in data science includes working with Python, and various data visualization tools.
-
-🔍 Current Focus: As I approach the culmination of my studies, my focus is on Deep learning and predictive modelling. I am actively engaged in projects that require me to leverage statistical algorithms to solve complex problems, Compare and analyze LLMs for Educational Agents.
-
-👥 Team Collaboration: At Trinity SMF, I collaborate with a diverse team, contributing to data-driven decision-making processes. This experience has sharpened my team collaboration and communication skills, essential for a career in data science.
-
-🌱 Learning & Growing: I firmly believe in continuous learning and am currently exploring [Language Models for Educational Agents]. I'm also open to collaborations and discussions on data science projects or any innovative ideas in the field.
-
-📫 Reach Out!: Feel free to connect with me for any exciting opportunities, collaborations, or just a chat about data science. Let's learn and grow together! reach me **https://www.linkedin.com/in/swetang-krishna/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
