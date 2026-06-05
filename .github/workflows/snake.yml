@@ -1,0 +1,42 @@
+# ============================================================
+#  Contribution Snake generator
+#  Save this file at:  .github/workflows/snake.yml
+#  in your  swetangkrishna/swetangkrishna  repo.
+#  It commits the snake SVGs to an "output" branch every 6h.
+# ============================================================
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  # Lets you trigger it manually from the Actions tab
+  workflow_dispatch:
+  # Also runs on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
