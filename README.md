@@ -1,4 +1,13 @@
+<!--
+============================================================
+  Swetang Krishna · GitHub Profile README
+  Username placed in URLs: swetangkrishna
+  Everything below renders on GitHub. Customize anything in
+  <!-- comments --> or the lines marked  👉 EDIT.
+============================================================
+-->
 
+<!-- ======================= HEADER ======================= -->
 <div align="center">
 
 <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Swetang%20Krishna&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Developer%20•%20Maker%20•%20Lifelong%20Learner&descSize=18&descAlignY=55"/>
@@ -73,8 +82,14 @@ class Swetang:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swetangkrishna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8b5cf6" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetangkrishna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="top languages" />
+<!--
+  ⚠️ IMPORTANT: the PUBLIC github-readme-stats server is currently paused/down,
+  so these two cards will NOT load until you self-host your own copy (free, ~5 min).
+  Steps are in the README setup note. After deploying, replace the domain
+  "YOUR-GRS-INSTANCE.vercel.app" below with your own Vercel URL.
+-->
+<img height="180em" src="https://YOUR-GRS-INSTANCE.vercel.app/api?username=swetangkrishna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8b5cf6&cache_seconds=86400" alt="stats" />
+<img height="180em" src="https://YOUR-GRS-INSTANCE.vercel.app/api/top-langs/?username=swetangkrishna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8&cache_seconds=86400" alt="top languages" />
 
 <br/>
 
@@ -137,9 +152,11 @@ class Swetang:
 </div>
 
 <!-- ======================= QUOTE ======================= -->
+<!-- The old github-readme-quotes.herokuapp.com service is dead (Heroku removed
+     free hosting in 2022). Static quote below always renders. 👉 EDIT freely. -->
 <div align="center">
 
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&border=true&bg_color=0D1117" alt="quote" />
+> _“First, solve the problem. Then, write the code.”_ — John Johnson
 
 </div>
 
