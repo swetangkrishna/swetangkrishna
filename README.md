@@ -1,22 +1,161 @@
+<!--
+============================================================
+  Swetang Krishna · GitHub Profile README
+  Username placed in URLs: swetangkrishna
+  Everything below renders on GitHub. Customize anything in
+  <!-- comments --> or the lines marked  👉 EDIT.
+============================================================
+-->
 
-<h1 align="center">Hi 👋 </h1>
-<h3 align="center"></h3>
+<!-- ======================= HEADER ======================= -->
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Swetang%20Krishna&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Developer%20•%20Maker%20•%20Lifelong%20Learner&descSize=18&descAlignY=55"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swetangkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="swetangkrishna" /> </p>
+<!-- Animated typing intro 👉 EDIT the lines after lines= -->
+<a href="https://github.com/swetangkrishna">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Swetang+%F0%9F%91%8B;Software+Developer;Embedded+Systems+%26+IoT+Enthusiast;Full-Stack+%26+Mobile+Developer;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/swetang-krishna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetangkrishna" height="30" width="40" /></a>
-</p>
+<!-- Profile views + follow + LinkedIn -->
+<img src="https://komarev.com/ghpvc/?username=swetangkrishna&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
+&nbsp;
+<a href="https://github.com/swetangkrishna?tab=followers">
+  <img src="https://img.shields.io/github/followers/swetangkrishna?label=Followers&style=for-the-badge&color=8b5cf6&logo=github&logoColor=white" alt="followers" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/swetang-krishna/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetangkrishna&show_icons=true&locale=en&layout=compact" alt="swetangkrishna" /></p>
+<!-- ======================= ABOUT ======================= -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Hey, nice to meet you!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetangkrishna&show_icons=true&locale=en" alt="swetangkrishna" /></p>
+<img align="right" width="380" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swetangkrishna&" alt="swetangkrishna" /></p>
+```python
+class Swetang:
+    def __init__(self):
+        self.role        = "Software Developer"
+        self.languages   = ["Python", "C", "JavaScript", "PHP"]
+        self.focus       = ["Web", "Mobile", "Embedded / IoT"]
+        self.currently   = "building things that talk to hardware ⚡"
+        self.fun_fact    = "I model stuff in Blender for fun 🎨"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something!")
+```
+
+- 🔭 &nbsp;I’m currently working on **side projects across web, mobile, and embedded systems**
+- 🌱 &nbsp;I’m sharpening my skills in **system design & clean architecture**
+- 🛠️ &nbsp;I love bridging **software and hardware** (Arduino, sensors, microcontrollers)
+- 💬 &nbsp;Ask me about **Python, Django, Flutter, or anything maker-related**
+- 📫 &nbsp;Reach me on [**LinkedIn**](https://www.linkedin.com/in/swetang-krishna/)
+
+<br clear="right"/>
+
+<!-- ======================= TECH STACK ======================= -->
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+
+#### Languages
+<img src="https://skillicons.dev/icons?i=python,c,js,php,html,css&theme=dark" alt="languages" />
+
+#### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=django,flutter,react,bootstrap&theme=dark" alt="frameworks" />
+
+#### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="databases" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" style="vertical-align:top" alt="oracle" />
+
+#### Tools, Hardware & Creative
+<img src="https://skillicons.dev/icons?i=git,linux,matlab,arduino,blender&theme=dark" alt="tools" />
+
+</div>
+
+<!-- ======================= GITHUB STATS ======================= -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swetangkrishna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8b5cf6" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetangkrishna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=swetangkrishna&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=8b5cf6&currStreakLabel=58A6FF" alt="streak" />
+
+</div>
+
+<!-- ======================= TROPHIES ======================= -->
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=swetangkrishna&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+
+</div>
+
+<!-- ======================= ACTIVITY GRAPH ======================= -->
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=swetangkrishna&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=8b5cf6&point=ffffff&hide_border=true&area=true" alt="activity graph" />
+
+</div>
+
+<!-- ======================= SNAKE ======================= -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--
+  This animation needs a free GitHub Action to generate the SVGs.
+  Setup is in the note at the bottom of this file. Until then GitHub
+  shows the fallback graph above.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swetangkrishna/swetangkrishna/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swetangkrishna/swetangkrishna/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/swetangkrishna/swetangkrishna/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ======================= CONNECT ======================= -->
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/swetang-krishna/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<!-- 👉 EDIT / ADD any of these and fill in your handles -->
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="https://github.com/swetangkrishna">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+
+</div>
+
+<!-- ======================= QUOTE ======================= -->
+<div align="center">
+
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&border=true&bg_color=0D1117" alt="quote" />
+
+</div>
+
+<!-- ======================= FOOTER ======================= -->
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+
+<div align="center">
+  <sub>⭐️ Thanks for visiting — feel free to explore my repos!</sub>
+</div>
