@@ -1,13 +1,4 @@
-<!--
-============================================================
-  Swetang Krishna · GitHub Profile README
-  Username placed in URLs: swetangkrishna
-  Everything below renders on GitHub. Customize anything in
-  <!-- comments --> or the lines marked  👉 EDIT.
-============================================================
--->
 
-<!-- ======================= HEADER ======================= -->
 <div align="center">
 
 <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Swetang%20Krishna&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Developer%20•%20Maker%20•%20Lifelong%20Learner&descSize=18&descAlignY=55"/>
